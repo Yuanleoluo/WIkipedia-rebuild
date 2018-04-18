@@ -7,8 +7,10 @@ This project aims to rebuild Wikipedia from scratch to practice coding technique
 ## Setup
 none
 
-##Technologies Used
-> * HTML * CSS * bootstrap
+## Technologies Used
+> * HTML
+> * CSS
+> * bootstrap
 
 ## legal
 **none**
