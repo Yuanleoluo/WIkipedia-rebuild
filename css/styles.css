@@ -8,6 +8,7 @@
 
 .side-bar {
   width: 100px;
+  float: left;
 }
 
 ul {
@@ -21,4 +22,32 @@ ul {
   list-style-type: none;
   padding-top: 20px;
   padding-left: 2px;
+}
+
+.right-option {
+  float: right;
+  font-size: 11px;
+}
+
+.main-body {
+  margin-top: 38px;
+  margin-left: 120px;
+}
+
+.main-body-top {
+  margin-top: 38px;
+  margin-left: 120px;
+  margin-bottom: -620px;
+}
+
+.greating {
+  width: 250px;
+}
+
+.subjects {
+  border: 3px solid black;
+}
+
+.feature-article {
+  
 }
